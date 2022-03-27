@@ -56,6 +56,6 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/asif473"><img src="https://img.shields.io/badge/-Mohammed%20Asif-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:asif.cse473@gmail.com"><img src="https://img.shields.io/badge/-asif.cse473@hmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:asif.cse473@gmail.com"><img src="https://img.shields.io/badge/-asif.cse473@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://facebook.com/asif473"><img src="https://img.shields.io/badge/-@asif473-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
